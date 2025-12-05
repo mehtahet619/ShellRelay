@@ -112,15 +112,5 @@ python3 ReverseBackdoor.py
 
 
 
-### (Hacker) Listener Screenshots - On Kali Linux operating system
-![3](https://user-images.githubusercontent.com/25087769/60386240-4503dc00-9a9b-11e9-86ea-c3d38383258f.PNG)
-
-
-![4](https://user-images.githubusercontent.com/25087769/60386243-47663600-9a9b-11e9-8e18-08425c18e4bf.PNG)
-
-
-![5](https://user-images.githubusercontent.com/25087769/60386386-e0498100-9a9c-11e9-82e1-60547c5c5350.PNG)
-
-
 
 
